@@ -58,9 +58,4 @@ public class Procedure extends Element {
 	protected String getDefaultIdPrefix() {
 		return "procedure";
 	}
-
-	@Override
-	public String getLinkCssClass() {
-		return "procedureLink";
-	}
 }
