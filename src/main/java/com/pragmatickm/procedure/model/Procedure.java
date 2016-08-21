@@ -50,11 +50,6 @@ public class Procedure extends Element {
 	}
 
 	@Override
-	public String getListItemCssClass() {
-		return "list-item-procedure";
-	}
-
-	@Override
 	protected String getDefaultIdPrefix() {
 		return "procedure";
 	}
