@@ -22,6 +22,7 @@
  */
 package com.pragmatickm.procedure.model;
 
+import static com.aoindustries.util.StringUtility.nullIfEmpty;
 import com.semanticcms.core.model.Element;
 
 /**
@@ -49,7 +50,7 @@ public class Procedure extends Element {
 	public void setLabel(String label) {
 		synchronized(lock) {
 			checkNotFrozen();
-			this.label = label==null || label.isEmpty() ? null : label;
+			this.label = nullIfEmpty(label);
 		}
 	}
 
