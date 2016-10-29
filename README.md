@@ -3,6 +3,7 @@ Procedures nested within [SemanticCMS](https://semanticcms.com/) pages and eleme
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/model/)
+* [Changelog](https://pragmatickm.com/procedure/model/changelog)
 * [API Docs](https://pragmatickm.com/procedure/model/apidocs/)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-model)
