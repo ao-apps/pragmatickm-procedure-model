@@ -75,7 +75,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2017-07-20T18:51:19-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -89,7 +89,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-11-16T21:31:39-0600"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -105,7 +105,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-10-20T20:02:52-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -120,7 +120,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-10-05T00:03:01-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -135,7 +135,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-09-11T17:38:35-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -150,7 +150,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-09-03T11:29:53-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
@@ -166,7 +166,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 			datePublished="2016-08-30T18:35:51-0500"
 			groupId="@{documented.groupId}"
 			artifactId="@{documented.artifactId}"
-			repository="https://aorepo.org/maven2"
+			repository="https://aorepo.org/maven2/"
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
