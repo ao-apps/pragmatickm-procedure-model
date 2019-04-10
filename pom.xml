@@ -25,15 +25,11 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.pragmatickm</groupId>
-		<artifactId>pragmatickm-parent</artifactId>
-		<version>1.0.2</version>
+		<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-parent</artifactId><version>1.0.2</version>
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.pragmatickm</groupId>
-	<artifactId>pragmatickm-procedure-model</artifactId>
-	<version>1.3.5-SNAPSHOT</version>
+	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.3.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<properties>
@@ -64,8 +60,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 				<pluginManagement>
 					<plugins>
 						<plugin>
-							<groupId>org.apache.maven.plugins</groupId>
-							<artifactId>maven-javadoc-plugin</artifactId>
+							<groupId>org.apache.maven.plugins</groupId><artifactId>maven-javadoc-plugin</artifactId>
 							<configuration>
 								<links>
 									<link>${javac.link.javaApi}</link>
@@ -82,14 +77,10 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 
 	<dependencies>
 		<dependency>
-			<groupId>com.aoindustries</groupId>
-			<artifactId>aocode-public</artifactId>
-			<version>1.9.0</version>
+			<groupId>com.aoindustries</groupId><artifactId>aocode-public</artifactId><version>1.9.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.semanticcms</groupId>
-			<artifactId>semanticcms-core-model</artifactId>
-			<version>1.8.2</version>
+			<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId><version>1.8.2</version>
 		</dependency>
 	</dependencies>
 </project>
