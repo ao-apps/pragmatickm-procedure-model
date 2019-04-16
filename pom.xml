@@ -40,7 +40,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 		<description.html><![CDATA[Procedures nested within <a target="_top" href="https://semanticcms.com/">SemanticCMS</a> pages and elements.]]></description.html>
 	</properties>
 
-	<name>PragmaticKM 1 Procedure Model</name>
+	<name>PragmaticKM Procedure Model</name>
 	<url>https://pragmatickm.com/procedure/model/</url>
 	<description>Procedures nested within SemanticCMS pages and elements.</description>
 	<inceptionYear>2013</inceptionYear>
