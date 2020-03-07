@@ -29,7 +29,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.4.0-POST-SNAPSHOT</version>
+	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.4.1-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<properties>
@@ -51,9 +51,9 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 
 	<scm>
 		<!-- Can't inherit due to multi-module -->
-		<connection>scm:git:git://github.com/aoindustries/${project.artifactId}.git</connection>
-		<developerConnection>scm:git:git@github.com:aoindustries/${project.artifactId}.git</developerConnection>
-		<url>https://github.com/aoindustries/${project.artifactId}</url>
+		<connection>scm:git:git://github.com/aoindustries/pragmatickm-procedure-model.git</connection>
+		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm-procedure-model.git</developerConnection>
+		<url>https://github.com/aoindustries/pragmatickm-procedure-model</url>
 		<tag>HEAD</tag>
 	</scm>
 
