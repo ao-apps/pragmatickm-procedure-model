@@ -46,7 +46,6 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 	<inceptionYear>2013</inceptionYear>
 
 	<scm>
-		<!-- Can't inherit due to multi-module -->
 		<connection>scm:git:git://github.com/aoindustries/pragmatickm-procedure-model.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm-procedure-model.git</developerConnection>
 		<url>https://github.com/aoindustries/pragmatickm-procedure-model</url>
