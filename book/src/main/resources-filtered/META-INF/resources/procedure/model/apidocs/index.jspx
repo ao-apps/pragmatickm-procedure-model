@@ -35,7 +35,7 @@ along with pragmatickm-procedure-model.  If not, see <http://www.gnu.org/license
 		<ao:forward page="index.html" />
 	</c:if>
 	<core:page
-		title="@{documented.name} @{com.pragmatickm:pragmatickm-procedure-model:pom.version} API Docs"
+		title="@{documented.name} ${ao:getProjectVersion('./', 'com.pragmatickm', 'pragmatickm-procedure-model', '¿@{project.version}?')} API Docs"
 		shortTitle="API Docs"
 		datePublished="2017-07-25T17:39:09-0500"
 		dateModified="${ao:getLastModified('index.html')}"
