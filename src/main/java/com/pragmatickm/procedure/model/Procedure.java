@@ -33,20 +33,20 @@ import com.semanticcms.core.model.Element;
  */
 public class Procedure extends Element {
 
-	private volatile String label;
+  private volatile String label;
 
-	@Override
-	public String getLabel() {
-		return label;
-	}
+  @Override
+  public String getLabel() {
+    return label;
+  }
 
-	public void setLabel(String label) {
-		checkNotFrozen();
-		this.label = nullIfEmpty(label);
-	}
+  public void setLabel(String label) {
+    checkNotFrozen();
+    this.label = nullIfEmpty(label);
+  }
 
-	@Override
-	protected String getDefaultIdPrefix() {
-		return "procedure";
-	}
+  @Override
+  protected String getDefaultIdPrefix() {
+    return "procedure";
+  }
 }

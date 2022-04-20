@@ -1,6 +1,6 @@
 /*
  * pragmatickm-procedure-model - Procedures nested within SemanticCMS pages and elements.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,8 +21,8 @@
  * along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.pragmatickm.procedure.model {
-	exports com.pragmatickm.procedure.model;
-	// Direct
-	requires com.aoapps.lang; // <groupId>com.aoapps</groupId><artifactId>ao-lang</artifactId>
-	requires com.semanticcms.core.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId>
+  exports com.pragmatickm.procedure.model;
+  // Direct
+  requires com.aoapps.lang; // <groupId>com.aoapps</groupId><artifactId>ao-lang</artifactId>
+  requires com.semanticcms.core.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId>
 }
