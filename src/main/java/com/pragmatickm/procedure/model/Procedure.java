@@ -24,6 +24,7 @@
 package com.pragmatickm.procedure.model;
 
 import static com.aoapps.lang.Strings.nullIfEmpty;
+
 import com.semanticcms.core.model.Element;
 
 /**
