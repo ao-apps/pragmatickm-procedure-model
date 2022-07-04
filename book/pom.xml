@@ -36,15 +36,15 @@ along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licens
     <module.name>com.pragmatickm.procedure.model.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>pragmatickm-procedure-model</documented.artifactId>
-    <documented.name>PragmaticKM Procedure Model²</documented.name>
+    <documented.name>PragmaticKM Procedure Model</documented.name>
     <documented.description>Procedures nested within SemanticCMS pages and elements.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
   </properties>
 
-  <name>PragmaticKM Procedure Model² Book</name>
+  <name>PragmaticKM Procedure Model Book</name>
   <url>https://pragmatickm.com/procedure/model/</url>
-  <description>Documentation for PragmaticKM Procedure Model² in SemanticCMS format.</description>
+  <description>Documentation for PragmaticKM Procedure Model in SemanticCMS format.</description>
   <inceptionYear>2013</inceptionYear>
 
   <licenses>
