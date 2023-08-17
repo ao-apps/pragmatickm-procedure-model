@@ -30,7 +30,7 @@ along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licens
   </parent>
 
   <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.5.0-POST-SNAPSHOT</version>
-  <packaging>bundle</packaging>
+  <packaging>jar</packaging>
 
   <properties>
     <module.name>com.pragmatickm.procedure.model</module.name>
