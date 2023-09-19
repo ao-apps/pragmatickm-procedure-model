@@ -41,6 +41,9 @@ along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licens
     <documented.artifactId>pragmatickm-procedure-model</documented.artifactId>
     <documented.name>PragmaticKM Procedure Model</documented.name>
     <documented.description>Procedures nested within SemanticCMS pages and elements.</documented.description>
+    <javadoc.breadcrumbs><![CDATA[<a target="${javadoc.target}" href="https://pragmatickm.com/">PragmaticKM</a>
+/ <a target="${javadoc.target}" href="https://pragmatickm.com/procedure/">Procedure</a>
+/ <a target="${javadoc.target}" href="${project.url}">Model</a>]]></javadoc.breadcrumbs>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
     <!-- SonarQube -->
