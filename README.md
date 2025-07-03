@@ -22,7 +22,7 @@ Procedures nested within [SemanticCMS](https://github.com/ao-apps/semanticcms) p
 * [Project Home](https://pragmatickm.com/procedure/model/)
 * [Changelog](https://pragmatickm.com/procedure/model/changelog)
 * [API Docs](https://pragmatickm.com/procedure/model/apidocs/)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-procedure-model)
+* [Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-procedure-model)
 * [GitHub](https://github.com/ao-apps/pragmatickm-procedure-model)
 
 ## Contact Us
