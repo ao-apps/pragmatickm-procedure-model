@@ -29,12 +29,12 @@ along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licens
     <relativePath>../../../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model-book</artifactId><version>2.0.0-SNAPSHOT</version>
+  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model-book</artifactId><version>2.0.0</version>
   <packaging>jar</packaging>
 
   <properties>
     <!-- Must be set to ${git.commit.time} for snapshots or ISO 8601 timestamp for releases. -->
-    <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
+    <project.build.outputTimestamp>2026-02-10T16:15:32Z</project.build.outputTimestamp>
     <module.name>com.pragmatickm.procedure.model.book</module.name>
     <subproject.subpath>book/</subproject.subpath>
     <!-- These values are copied from the project being documented -->
@@ -82,7 +82,7 @@ along with pragmatickm-procedure-model.  If not, see <https://www.gnu.org/licens
     <connection>scm:git:git://github.com/ao-apps/pragmatickm-procedure-model.git</connection>
     <developerConnection>scm:git:git@github.com:ao-apps/pragmatickm-procedure-model.git</developerConnection>
     <url>https://github.com/ao-apps/pragmatickm-procedure-model</url>
-    <tag>HEAD</tag>
+    <tag>pragmatickm-procedure-model-book-2.0.0</tag>
   </scm>
 
   <issueManagement>
